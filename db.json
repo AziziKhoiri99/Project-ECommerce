@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "name": "admin",
+      "email": "admin@admin.com",
+      "gender": "male",
+      "tanggal": "2021-11-27",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "username": "rizqi",
+      "password": "rizqi",
+      "name": "RizqiRamandika",
+      "email": "haha@gmail.com",
+      "hp": "019101910191019",
+      "toko": "Toko Suci",
+      "gender": "female",
+      "tanggal": "2021-11-26",
+      "role": "costumer"
+    },
+    {
+      "username": "999",
+      "name": "999",
+      "email": "999@gmail.com",
+      "hp": "9999999999",
+      "toko": "9999",
+      "gender": "male",
+      "tanggal": "2021-11-27",
+      "password": "999",
+      "role": "costumer",
+      "id": 3
+    }
+  ],
+  "barang": [
+    {
+      "namaBarang": "Jaket Sweater",
+      "jumlah": "200",
+      "harga": "75.000",
+      "gambar": "https://images.tokopedia.net/img/cache/500-square/product-1/2020/2/7/batch-upload/batch-upload_97ff68c7-1a0d-4711-89ce-9cb4b536f6f0.png",
+      "id": 1
+    },
+    {
+      "namaBarang": "Sepatu Jordy",
+      "jumlah": "1",
+      "harga": "100.000",
+      "gambar": "https://img.biggo.com.tw/sQ2aiBpGMHLl2tnftYs14Vftqt2hxT9w2vrpaN3Ptrf0/https://id-live.slatic.net/p/f12e4e2f64a88f5544eb7f3ae64af168.jpg",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "namaBarang": "Tas Branded",
+      "jumlah": "5",
+      "harga": "1.000.000",
+      "gambar": "https://cf.shopee.co.id/file/0801da0b856cac54d04e7d230356ba36"
+    },
+    {
+      "id": 5,
+      "namaBarang": "Jam Rolex",
+      "jumlah": "6",
+      "harga": "1.000.000.009",
+      "gambar": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//86/MTA-2623118/rolex_rolex-126600-sea-dweller-jam-tangan-wanita---hitam_full02.jpg"
+    }
+  ]
+}
